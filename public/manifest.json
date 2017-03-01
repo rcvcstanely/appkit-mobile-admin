@@ -1,0 +1,13 @@
+{
+  "short_name": "RCVC App Kit",
+  "name": "RCVC App Kit ++",
+  "icons": [
+    {
+      "src": "/img/appicon-lg.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone"
+}
